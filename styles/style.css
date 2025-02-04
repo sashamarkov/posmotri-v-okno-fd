@@ -23,10 +23,6 @@ html {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  
-  /*padding-left: 17px;
-  padding-block-start: 231px;*/
-
   inline-size: 1200px;
   block-size: 100%;
 }
@@ -143,7 +139,6 @@ ol {
 }
 /* #endregion Плеер */
 
-
 /* #region Контент */
 .content__details {
   display: flex;
@@ -221,7 +216,7 @@ ol {
   white-space: nowrap;
 }
 
-.content__video-card-description  {
+.content__video-card-description {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
